@@ -17,8 +17,6 @@ Your users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
 published links : 
 
 Netlify : https://neon-vacherin-945cc4.netlify.app/
